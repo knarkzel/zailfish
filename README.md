@@ -1,3 +1,3 @@
 # zailfish
 
-Compile time templating engine for Zig. Based in `sailfish` from Rust.
+Compile time templating engine for Zig. Based on `sailfish` from Rust.
